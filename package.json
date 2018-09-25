@@ -1,0 +1,25 @@
+{
+  "name": "@toomee/qcloud-cdn-node-sdk",
+  "version": "1.0.0",
+  "description": "腾讯云 CDN OpenAPI SDK - 采用 es6 重写",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toomeefed/qcloud-cdn-node-sdk.git"
+  },
+  "keywords": [
+    "qcloud",
+    "cdn",
+    "sdk",
+    "esnext"
+  ],
+  "author": "楼教主 <fe.52cik@gmail.com> (http://www.52cik.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/toomeefed/qcloud-cdn-node-sdk/issues"
+  },
+  "homepage": "https://github.com/toomeefed/qcloud-cdn-node-sdk#readme"
+}
